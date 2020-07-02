@@ -1,4 +1,4 @@
-# leaflet-velocity [![NPM version][npm-image]][npm-url] [![NPM Downloads][npm-downloads-image]][npm-url]
+# leaflet-velocity 
 
 A extension for Leaflet-velocity  
 Using Xarray or netCDF4 to extract the HYCOM GoM expt90.1 and HYCOM GLBy on leaflet-velocity.
